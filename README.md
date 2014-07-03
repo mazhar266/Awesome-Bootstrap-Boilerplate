@@ -4,7 +4,7 @@ I've decided and made another HTML5 boilerplate based on HTML5 Boilerplate.
 
 * HTML5 Boilerplate 4.3.0
 * Twitter Bootstrap 3.2.0
-* Font Awesome 4.0.3
+* Font Awesome 4.1.0
 * LESS.js 1.7.3 ( just placed in dir )
 
 ####Special Features:
