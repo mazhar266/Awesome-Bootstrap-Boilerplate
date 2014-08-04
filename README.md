@@ -10,6 +10,7 @@ I've decided and made another HTML5 boilerplate based on HTML5 Boilerplate.
 
 ####Special Features:
 
+* windows mobile 8 responsive issue fix
 * long text without whitespace link break fix
 * css3 font smoothing implemented
 * reset css of an element
