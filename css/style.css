@@ -1,5 +1,17 @@
 /* stylesheet document */
 
+/* windows mobile 8 responsive fix */
+@-ms-viewport{
+    width: device-width;
+    zoom:1.0;
+}
+ 
+@media (max-width: 400px) {
+    @-ms-viewport {
+        width: 320px;
+    }
+}
+
 /* some default rules are applied */
 body {
 	/* long text without whitespace link break fix */

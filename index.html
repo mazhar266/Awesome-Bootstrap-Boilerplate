@@ -25,6 +25,18 @@
         <link rel="stylesheet" href="css/style.css">
 
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+        <script>
+            // windows mobile 8 responsive fix
+            (function() {
+                if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+                    var msViewportStyle = document.createElement("style");
+                    msViewportStyle.appendChild(
+                        document.createTextNode("@-ms-viewport{width:auto!important}")
+                    );
+                    document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+                }
+            })();
+        </script>
     </head>
     <body>
         <!--[if lt IE 7]>
