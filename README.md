@@ -11,6 +11,7 @@ I've decided and made another HTML5 boilerplate based on HTML5 Boilerplate.
 
 ####Special Features:
 
+* favicon for all devices
 * windows mobile 8 responsive issue fix
 * long text without whitespace link break fix
 * css3 font smoothing implemented
@@ -18,7 +19,6 @@ I've decided and made another HTML5 boilerplate based on HTML5 Boilerplate.
 * selection protection css
 * smooth animation for mobile fix
 * hardware acceleration css class
-* favicon for all devices
 
 More coming soon as it will be discovered.
 
