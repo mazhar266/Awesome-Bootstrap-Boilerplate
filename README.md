@@ -7,6 +7,7 @@ I've decided and made another HTML5 boilerplate based on HTML5 Boilerplate.
 * Twitter Bootstrap 3.2.0
 * Font Awesome 4.1.0
 * LESS.js 1.7.3 ( just placed in dir )
+* Normalize-OpenType.css 0.1.3
 
 ####Special Features:
 
@@ -17,6 +18,7 @@ I've decided and made another HTML5 boilerplate based on HTML5 Boilerplate.
 * selection protection css
 * smooth animation for mobile fix
 * hardware acceleration css class
+* favicon for all devices
 
 More coming soon as it will be discovered.
 
